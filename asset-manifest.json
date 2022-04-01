@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/okputu-e/markdown-previewer/static/css/main.ce49fe2c.css",
+    "main.js": "/okputu-e/markdown-previewer/static/js/main.d8e7009c.js",
+    "index.html": "/okputu-e/markdown-previewer/index.html",
+    "main.ce49fe2c.css.map": "/okputu-e/markdown-previewer/static/css/main.ce49fe2c.css.map",
+    "main.d8e7009c.js.map": "/okputu-e/markdown-previewer/static/js/main.d8e7009c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce49fe2c.css",
+    "static/js/main.d8e7009c.js"
+  ]
+}

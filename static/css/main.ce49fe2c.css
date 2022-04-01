@@ -1,0 +1,2 @@
+body{background-color:bisque;margin:0;padding:0}img{width:100%}.App{display:flex;margin:.5rem auto;width:80%}.App .markdown_editor,.App .markdown_preview{padding:.5rem 1rem;width:50%}.App .markdown_editor textarea{height:80vh;width:100%}.App .markdown_preview .preview{background-color:#fff;border:1px solid #000;height:80vh;overflow-y:scroll;width:100%}@media screen and (max-width:768px){.App{flex-direction:column}.App .markdown_editor,.App .markdown_preview{padding:0;width:100%}}
+/*# sourceMappingURL=main.ce49fe2c.css.map*/
